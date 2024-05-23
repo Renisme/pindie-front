@@ -1,1 +1,1 @@
-Мой бэкенд: https://pindie-top.nomoredomainswork.ru/
+My backend: https://pindie-top.nomoredomainswork.ru/
